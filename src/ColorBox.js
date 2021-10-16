@@ -7,7 +7,7 @@ export default class ColorBox extends Component {
       
     ]
   }
-
+//finished this lab in another file but writing this comment so I can submit to git again
   render() {
     return (
       <div className="color-box" style={{opacity: this.props.opacity}}>
